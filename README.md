@@ -14,4 +14,4 @@ This is a JavaScript quote generator project that fetches quotes from an API and
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Freehiei/quote-generator
+git clone https://github.com/DeidaTypes/quote-generator
